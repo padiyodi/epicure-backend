@@ -10,3 +10,6 @@ or
 
 If u want to run the API in background then use this command gunicorn -b 127.0.0.1:2020 -w2 --timeout 10 juice_api_test:app --daemon
 
+# Static folder
+In static folder there are 2 sub-folder 1.imges 2.assets 
+save images in this foldder for required epicure-project,serve this file in API 
