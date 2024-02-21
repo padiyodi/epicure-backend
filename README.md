@@ -25,7 +25,8 @@ Clone the repository: git clone https://github.com/your-username/smoothie-bar-we
 Install dependencies:
 pip install -r requirements.txt
 
-Configuration
+# Configuration
+
 Configure MQTT Broker Settings:
 Open the juice_api_test.py file and locate the following section:
 # MQTT broker settings
