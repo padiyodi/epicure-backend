@@ -51,7 +51,7 @@ You may need to configure other settings in the juice_api_test.py file according
 Run the application:
 gunicorn -b 127.0.0.1:8002 -w2 --timeout 10 juice_api_test:app
 
-Access the API endpoints as needed:-
+# Access the API endpoints as needed:-
 
 You can now access the API endpoints using your preferred API client (e.g., curl, Postman). The default endpoint URLs are:
 Home Carousel: /homeCarousel
