@@ -22,3 +22,8 @@ Basically MQTT means a lightweight, publish-subscribe, machine to machine networ
 
 we used MQTT for get smoothie status from vending machine
 
+# framework 
+
+In this we used Falcon framework for API the falcon framwwork is a blazing fast, minimalist Python web API framework for building robust app backends and microservices
+we used falcon beasue its faster than other franwork 
+ e.g falcon is faster than flask (40x)
