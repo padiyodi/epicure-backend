@@ -34,11 +34,16 @@ Configure MQTT Broker Settings:
 Open the juice_api_test.py file and locate the following section:
 # MQTT broker settings
 broker_address = "bc7ad181ea014fedb722198e18386a65.s2.eu.hivemq.cloud"
+
 port = 8883  # MQTT port (secure)
 username = "TSB_APP"
+
 password = "TheSmoothieBar1"
+
 mqtt_publisher = "/tsb_input"
+
 mqtt_subscriber = "/tsb_feedback"
+
 Replace the values with your MQTT broker settings.
 Optional: Configure Other Settings:
 You may need to configure other settings in the juice_api_test.py file according to your requirements, such as database connections, file paths, and endpoint URLs.
