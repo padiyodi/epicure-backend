@@ -20,9 +20,12 @@ Static File Serving: Serves static image files for the user interface.
 
 # Usage
 
-Clone the repository: git clone [https://github.com/your-username/smoothie-bar-web-api.git](https://github.com/padiyodi/epicure-backend.git)
+Clone the repository: 
+
+git clone [https://github.com/your-username/smoothie-bar-web-api.git](https://github.com/padiyodi/epicure-backend.git)
 
 Install dependencies:
+
 pip install -r requirements.txt
 
 # Configuration
