@@ -16,3 +16,9 @@ save images in this foldder for required epicure-project,serve this file in API
 
 # DataBase
 In this used sql Databse the sql means the relation database,created multiple folder for API 
+
+# MQTT 
+Basically MQTT means a lightweight, publish-subscribe, machine to machine network protocol for message queue/message queuing service. It is designed for connections with remote locations that have devices with resource constraints 
+
+we used MQTT for get smoothie status from vending machine
+
