@@ -1,0 +1,4 @@
+falcon==3.0.1
+paho-mqtt==1.6.1
+PyYAML==5.4.1
+regex==2021.11.22
