@@ -20,7 +20,7 @@ Static File Serving: Serves static image files for the user interface.
 
 # Usage
 
-Clone the repository: git clone https://github.com/your-username/smoothie-bar-web-api.git
+Clone the repository: git clone [https://github.com/your-username/smoothie-bar-web-api.git](https://github.com/padiyodi/epicure-backend.git)
 
 Install dependencies:
 pip install -r requirements.txt
@@ -47,19 +47,34 @@ Access the API endpoints as needed:-
 
 You can now access the API endpoints using your preferred API client (e.g., curl, Postman). The default endpoint URLs are:
 Home Carousel: /homeCarousel
+
 Payment Initiation: /paymentinitiated
+
 Smoothie Status: /smoothieStatus
+
 Feedback Handling: /feedback
+
 Fun Facts: /funFacts
+
 Sweetness Level: /sweetness
+
 Inventory Management: /getInventory
+
 Order Completion: /orderCompleted
+
 Payment Information: /getPaymentInfo
+
 Recipe Listing: /recipes
+
 Promo Code Management: /promoCode
+
 Adding Promo Codes: /addpromoCode
+
 Adding to Inventory: /addToInventory
+
 Static Files (Images): /pics
+
+and more
 
 # License
 
