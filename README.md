@@ -13,3 +13,6 @@ If u want to run the API in background then use this command gunicorn -b 127.0.0
 # Static folder
 In static folder there are 2 sub-folder 1.imges 2.assets 
 save images in this foldder for required epicure-project,serve this file in API 
+
+#DataBse
+In this used sql Databse the sql means the relation database,created multiple folder for API 
